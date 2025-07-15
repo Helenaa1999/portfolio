@@ -1,4 +1,10 @@
 .yearContainer{
     display: flex;
-    gap: 2.5rem;
+    gap: 3.5rem;
 }
+
+.year{
+    width: 5%;
+    text-align: center;
+}
+
