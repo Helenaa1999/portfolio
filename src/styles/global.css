@@ -49,6 +49,26 @@ body{
     text-decoration: underline;
 }
 
+.yearContainer{
+    display: flex;
+    gap: 3.5rem;
+}
+
+.year{
+    width: 5%;
+    text-align: center;
+}
+
+.proyectContainer{
+    display: flex;
+    flex-direction: column;
+    line-height: 0.2;
+}
+
+.proyectContainer img{
+    width: 30px;
+}
+
 @media (max-width:1000px){
     .articleContainer{
         width: 70%;
